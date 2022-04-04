@@ -1,0 +1,116 @@
+
+.navbar{
+    width: 100%;
+}
+.text{
+    text-decoration: none;
+}
+.center-button{
+background-color: #202124;
+font-family: 'Oswald', sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.button-for-center{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 20px;
+   height: 2.5rem;
+   
+ 
+}
+
+.line-stripes{
+    width: 40px;
+        height: 20px;
+        background: repeating-linear-gradient(90deg,#e4002b,#e4002b 8px,#fff 0,#fff 16px);
+    
+}
+
+.line-greeting-heading{
+    font-family: 'Oswald', sans-serif;
+}
+
+
+  .item-head{
+    font-family: 'Oswald', sans-serif;
+  }
+  .card-text{
+    font-family: 'Oswald', sans-serif;
+    text-decoration: none;
+  }
+  
+ .offer-text{
+    font-family: 'Oswald', sans-serif;
+ }
+ .line-stripes-footer{
+   
+    width: 40px;
+    height: 30px;
+    background: repeating-linear-gradient(90deg,#e4002b,#e4002b 8px,#202124 0,#202124 16px);
+ }
+ .item-button{
+     border: none;
+ }
+ .card-link{
+text-decoration: none;
+ }
+ .card-title{
+    font-family: 'Oswald', sans-serif;
+    color: red;
+ }
+ .button-footer{
+     border-radius: 22px;
+     height: 2.5rem;
+     background-color: white;
+     color: black;
+     border: 1px solid black;
+     font-size: 1.2rem;
+   
+ }
+  footer{
+        width: 100%;
+        height: auto;
+        background-color:#202124 ;
+    }
+    .footer-section{
+        width: 100%;
+
+    }
+    .modal {
+       display: none;
+        position: fixed;
+      z-index: 1;
+        left:0;
+        top: 0;
+        width: 50%;
+        height: 100%; 
+        overflow: auto;
+       }
+      .modall-content {
+        background-color: #fefefe;
+        margin: 15% auto;
+      border: 1px solid #888;
+    width: 50%;
+      }
+      .close {
+        color: #aaa;
+        float: right;
+        font-size: 48px;
+        font-weight: bold;
+      }
+      .close:hover,
+      .close:focus {
+        color: black;
+        /* text-decoration: none; */
+        cursor: pointer;
+      }
+.btns-modal{
+    border-radius: 15px;
+}
+.button-bucket{
+    border: none;
+    background: none;
+}
